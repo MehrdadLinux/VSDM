@@ -10,3 +10,11 @@ you want to download somthing and you have download link
 - put download link in 1.txt file
 - run main.sh
 - done
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
