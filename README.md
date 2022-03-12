@@ -11,10 +11,10 @@ you want to download somthing and you have download link
 - run main.sh
 - done
 
-# BUG,
-# HACK,
-# FIXME,
-# TODO,
-# XXX,
-# [ ],
-# [x]
+BUG,
+HACK,
+FIXME,
+TODO,
+XXX,
+[ ],
+[x]
