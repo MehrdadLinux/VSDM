@@ -1,5 +1,5 @@
 # VSDM
-very simple download manager
+  ${\color{red}very simple}$ ${\color{green}download manager!}$
 
 ## How it Works!
 you want to download somthing and you have download link
