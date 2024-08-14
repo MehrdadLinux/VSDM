@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-
+# You can use aria2c -x 16 -s 16 -i 1.txt
 #mylogic
 for d in */ **/*/ ***/**/* ;
 do
